@@ -18,9 +18,9 @@ function johnLennonFacts(array) {
     
           newArray.push(`${array[n]}!!!`) ; 
           n ++;
-          return newArray;
+          
         
   }
 }
- 
+ return newArray ; 
      
