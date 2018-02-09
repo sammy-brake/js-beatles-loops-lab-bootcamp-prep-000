@@ -20,5 +20,5 @@ function johnLennonFacts(array) {
         
   }
 }
-return newArray
+return newArray ; 
      
